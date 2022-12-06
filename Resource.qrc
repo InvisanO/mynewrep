@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>C:/Users/User/Desktop/icon.png</file>
+        <file>C:/Users/User/Desktop/bg.jfif</file>
+        <file>C:/Users/User/Desktop/quit.png</file>
+    </qresource>
+</RCC>
